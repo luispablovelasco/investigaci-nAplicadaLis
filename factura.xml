@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Productos>
+    <Producto>
+        <Codigo>001</Codigo>
+        <Nombre>Caja lapiceros</Nombre>
+        <Marca>BIC</Marca>
+        <Descripcion>Caja de lapiceros Bic ideales para tomar apuntes y mas</Descripcion>
+        <Precio>5</Precio>
+        <Unidades>20</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>002</Codigo>
+        <Nombre>Silabario</Nombre>
+        <Marca>NORMA</Marca>
+        <Descripcion>Util para ense&#xF1;anza a ni&#xF1;os peque&#xF1;os</Descripcion>
+        <Precio>2</Precio>
+        <Unidades>1</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>003</Codigo>
+        <Nombre>Caja de borradors </Nombre>
+        <Marca>STAEDTLER</Marca>
+        <Descripcion>Elimina errores escritos a lapiz</Descripcion>
+        <Precio>2.50</Precio>
+        <Unidades>5</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>004</Codigo>
+        <Nombre>Cuaderno</Nombre>
+        <Marca>ESCRIBE</Marca>
+        <Descripcion>Util para ense&#xF1;anza a ni&#xF1;os peque&#xF1;os</Descripcion>
+        <Precio>2.50</Precio>
+        <Unidades>1</Unidades>
+    </Producto>
+</Productos>
